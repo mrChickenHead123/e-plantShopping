@@ -111,6 +111,7 @@ body {
     background-color: #c0392b;
 }
 
+
 /* Pseudo-elements - Sale badge */
 .product-card::before {
     content: "SALE";
